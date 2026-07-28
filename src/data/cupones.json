@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "codigo": "DESCUENTO20",
+    "porcentajeDescuento": 20,
+    "limiteUso": 50,
+    "usosActuales": 5,
+    "estado": "ACTIVO"
+  },
+  {
+    "id": 2,
+    "codigo": "VERANO50",
+    "porcentajeDescuento": 50,
+    "limiteUso": 10,
+    "usosActuales": 10,
+    "estado": "INACTIVO"
+  }
+]

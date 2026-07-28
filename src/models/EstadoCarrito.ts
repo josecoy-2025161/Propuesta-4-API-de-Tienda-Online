@@ -1,0 +1,1 @@
+export type EstadoCarrito = "ACTIVO" | "ABANDONADO" | "COMPLETADO";

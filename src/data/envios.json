@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "pedidoId": 1,
+    "direccionEntrega": "Zona 1, Ciudad",
+    "fechaEstimada": "2026-07-30",
+    "estado": "PREPARANDO"
+  }
+]

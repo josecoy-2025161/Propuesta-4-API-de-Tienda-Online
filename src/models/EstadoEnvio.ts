@@ -1,0 +1,1 @@
+export type EstadoEnvio = "PREPARANDO" | "EN_TRANSITO" | "ENTREGADO" | "DEVUELTO";

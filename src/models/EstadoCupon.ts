@@ -1,0 +1,1 @@
+export type EstadoCupon = "ACTIVO" | "EXPIRADO" | "AGOTADO";

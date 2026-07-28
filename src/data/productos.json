@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Monitor UltraWide 34 Pulgadas",
+    "descripcion": "Monitor ideal para desarrollo backend con alta resolución.",
+    "precio": 350.00,
+    "stock": 15,
+    "categoria": "ELECTRONICA",
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecánico Keychron",
+    "descripcion": "Teclado inalámbrico para programadores.",
+    "precio": 120.00,
+    "stock": 8,
+    "categoria": "ELECTRONICA",
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta Node.js",
+    "descripcion": "Camiseta de algodón con logo de Node.",
+    "precio": 25.00,
+    "stock": 0,
+    "categoria": "ROPA",
+    "estado": "AGOTADO"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "clienteId": 1,
+    "fecha": "2026-07-25T10:30:00.000Z",
+    "total": 350.00,
+    "cuponId": null,
+    "estado": "PENDIENTE"
+  },
+  {
+    "id": 2,
+    "clienteId": 2,
+    "fecha": "2026-07-26T14:15:00.000Z",
+    "total": 280.00,
+    "cuponId": 1,
+    "estado": "ENVIADO"
+  }
+]

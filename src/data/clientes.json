@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Lopez",
+    "correo": "ana.lopez@gmail.com",
+    "telefono": "12345678",
+    "direccion": "Zona 1, Ciudad",
+    "estado": "ACTIVO"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Dev",
+    "correo": "carlos@outlook.com",
+    "telefono": "87654321",
+    "direccion": "Zona 4, Ciudad",
+    "estado": "ACTIVO"
+  }
+]

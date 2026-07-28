@@ -1,0 +1,1 @@
+export type EstadoCliente = "ACTIVO" | "INACTIVO" | "SUSPENDIDO";
